@@ -1,0 +1,18 @@
+{
+  "name": "typescript-transform-paths-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ttypescript": "^1.5.6",
+    "typescript": "^3.4.5",
+    "typescript-transform-paths": "^1.0.1"
+  },
+  "scripts": {
+    "build": "ttsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
